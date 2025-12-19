@@ -1,0 +1,9 @@
+[submodule "external/dnTest"]
+	path = external/dnTest
+	url = https://github.com/TheMejmun/dnTest
+[submodule "external/dnScheduler"]
+	path = external/dnScheduler
+	url = https://github.com/TheMejmun/dnScheduler
+[submodule "external/dnLog"]
+	path = external/dnLog
+	url = https://github.com/TheMejmun/dnLog
